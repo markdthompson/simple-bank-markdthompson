@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.orgmarkdthompson/simple-bank-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/simple-bank-markdthompson)
+[![Build Status](https://travis-ci.org/markdthompson/simple-bank-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/simple-bank-markdthompson)
 
 # Simple Bank Exercise
 
