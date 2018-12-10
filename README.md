@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.orgmarkdthompson/simple-bank-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/simple-bank-markdthompson)
+
 # Simple Bank Exercise
 
 The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.
